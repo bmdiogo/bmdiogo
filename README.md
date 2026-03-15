@@ -36,13 +36,4 @@ Signal Processing             ████████████████�
 Brain-Computer Interfaces     ██████████████████░░  
 Machine Learning for BCI      █████████████████░░░  
 ```
-
----
-
-
-
-<div align="center">
-<sub><img src="https://komarev.com/ghpvc/?username=bmdiogo&style=flat-square&color=7700ff&label=profile+views" /></sub>
-</div>
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&bg_color=050510&color=0:7700ff,60:00d4ff,100:00ff88&height=130&section=footer&animation=twinkling"/>

@@ -27,6 +27,13 @@ Universidad de Alicante &nbsp;·&nbsp; Alicante, Spain<br/>
 </table>
 
 ---
+## 🛠️ Technologies & Tools
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,matlab,java,javascript,html,css,go,pytorch,git,github,linux,vscode" />
+
+</p>
 
 ## 🔬 Research Interests
 
